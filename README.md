@@ -1,13 +1,13 @@
-### 🧮  **Simple Calculator Web**
+### 🧮 **Simple Calculator Web**
 
 A Simple Calculator Web Application
 Made With JavaScript, HTML & CSS
 
-### 🚀  **Getting Started**
+### 🚀 **Getting Started**
 1. Clone this project || Download Zip from GitHub
 2. Run the project 
 
-### 📷   **Screenshots**
+### 📷 **Screenshots**
 
   <img
     src="/assets/image2.png"
