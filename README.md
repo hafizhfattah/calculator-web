@@ -5,6 +5,7 @@ Made With JavaScript, HTML & CSS
 
 ### 🚀 **Getting Started**
 1. Clone this project || Download Zip from GitHub
+2. Run => Finish
 
 ### 📷  **Screenshots**
 
