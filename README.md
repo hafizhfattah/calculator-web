@@ -1,6 +1,6 @@
 ### 🧮 **Simple Calculator Web**
 
-A Simple Calculator Web Application
+A Simple Calculator Web Application.
 Made With JavaScript, HTML & CSS
 
 ### 🚀 **Getting Started**
